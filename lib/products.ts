@@ -40,7 +40,7 @@ export const products: Product[] = [
     description: "Nón lưỡi trai trơn phong cách năng động tối giản, phù hợp cho cả nam và nữ.",
     price: 149000,
     categories: [],
-    image: "/images/btre.jpg"
+    image: "/images/non.jpg"
   },
   {
     id: "5",
