@@ -14,3 +14,19 @@ node_modules
 .next/
 .DS_Store
 .vercel
+
+# OneDrive placeholder files (not synced locally)
+public/images/com1.png
+public/images/com3.png
+public/images/com 2.png
+public/images/com 4.png
+public/images/com 4-real.jpg
+public/images/com 5.png
+public/images/com 6.png
+public/images/com 7.png
+public/images/com 8.png
+public/images/com 9.png
+public/images/com 10.jpg
+public/images/ghi âm.png
+public/images/thiệp.png
+public/images/gói quà.png

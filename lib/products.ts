@@ -16,7 +16,7 @@ export const products: Product[] = [
     description: "Ao phong tron cotton 100%, nhieu kich co, de phoi do phong cach toi gian, thanh lich.",
     price: 120000,
     categories: [],
-    image: "/ao-phong.jpg"
+    image: "/images/ao-phong.jpg"
   },
   {
     id: "2",
@@ -24,7 +24,7 @@ export const products: Product[] = [
     description: "May khuech tan tinh dau len den ban kinh 10m2, mui huong vua phai, nang cap chat luong khong gian song cua ban!",
     price: 459000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/images/ML 1.jpg"
   },
   {
     id: "3",
@@ -32,7 +32,7 @@ export const products: Product[] = [
     description: "Binh nuoc chat lieu thep khong gi ben bi, giu nhiet len den 24 tieng.",
     price: 229000,
     categories: ["cho-dong-nghiep"],
-    image: "/placeholder-product.jpg"
+    image: "/images/blx.jpg"
   },
   {
     id: "4",
@@ -40,7 +40,7 @@ export const products: Product[] = [
     description: "Non luoi trang tron phong cach nang dong toi gian, phu hop cho ca nam va nu.",
     price: 149000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/images/btre.jpg"
   },
   {
     id: "5",
@@ -48,7 +48,7 @@ export const products: Product[] = [
     description: "Gong kinh thanh lich, thoi trang kem trong chong tia UV, anh sang xanh.",
     price: 199000,
     categories: [],
-    image: "/kinh-mat.jpg"
+    image: "/images/mat-kinh.jpg"
   },
   {
     id: "6",
@@ -56,7 +56,7 @@ export const products: Product[] = [
     description: "Form dang rong rai, mau sac thanh lich, phong cach toi gian, de phoi do.",
     price: 275000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/images/BE 5.jpg"
   },
   {
     id: "7",
@@ -64,7 +64,7 @@ export const products: Product[] = [
     description: "Tui tote mau tron toi gian de ung dung, phoi do, tien loi.",
     price: 99000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/images/trop.jpg"
   },
   {
     id: "8",
@@ -72,7 +72,7 @@ export const products: Product[] = [
     description: "Binh hoa su tinh te, cam hoa nghe thuat nang cap khong gian cho ngoi nha cua ban.",
     price: 270000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/images/cây 1.jpg"
   },
   {
     id: "9",
@@ -81,7 +81,7 @@ export const products: Product[] = [
     price: 129000,
     categories: [],
     brand: "Healiverse",
-    image: "/placeholder-product.jpg"
+    image: "/images/Nụ 1.jpg"
   },
   {
     id: "10",
@@ -89,7 +89,7 @@ export const products: Product[] = [
     description: "Nu Go khoi thom Bach Xanh mang den trai nghiem thu gian tinh te voi huong thom diu nhe.",
     price: 129000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/images/Nụ 2.jpg"
   },
   {
     id: "11",
@@ -98,7 +98,7 @@ export const products: Product[] = [
     price: 50000,
     categories: ["dip-tot-nghiep", "cho-dong-nghiep"],
     brand: "OHQUAO",
-    image: "/placeholder-product.jpg"
+    image: "/images/SỔ OHQUAO 1.jpg"
   },
   {
     id: "12",
@@ -106,7 +106,7 @@ export const products: Product[] = [
     description: "So tay nho Nuoc mia la lua chon hoan hao cho nhung ai yeu thich su tien loi va phong cach.",
     price: 50000,
     categories: ["cho-dong-nghiep", "dip-tot-nghiep"],
-    image: "/placeholder-product.jpg"
+    image: "/images/SỔ OHQUAO 2.jpg"
   },
   {
     id: "13",
@@ -114,7 +114,7 @@ export const products: Product[] = [
     description: "Banh kem tuoi ngon tu Sugar Town",
     price: 299000,
     categories: ["dip-sinh-nhat"],
-    image: "/placeholder-product.jpg"
+    image: "/images/SGT 1.jpg"
   },
   {
     id: "14",
@@ -122,7 +122,7 @@ export const products: Product[] = [
     description: "Banh kem tuoi ngon tu Sugar Town",
     price: 349000,
     categories: ["dip-sinh-nhat"],
-    image: "/placeholder-product.jpg"
+    image: "/images/SGT 2.jpg"
   },
   {
     id: "15",
@@ -131,7 +131,7 @@ export const products: Product[] = [
     price: 349000,
     categories: ["dip-sinh-nhat"],
     brand: "Sugar Town",
-    image: "/placeholder-product.jpg"
+    image: "/images/SGT 3.jpg"
   },
   {
     id: "16",
@@ -140,7 +140,7 @@ export const products: Product[] = [
     price: 349000,
     categories: [],
     brand: "Sugar Town",
-    image: "/placeholder-product.jpg"
+    image: "/images/SGT 4 Ktr.jpg"
   },
   {
     id: "17",
@@ -149,7 +149,7 @@ export const products: Product[] = [
     price: 349000,
     categories: [],
     brand: "Sugar Town",
-    image: "/placeholder-product.jpg"
+    image: "/images/SGT 5 ktr.jpg"
   },
   {
     id: "18",
@@ -158,7 +158,7 @@ export const products: Product[] = [
     price: 349000,
     categories: ["dip-sinh-nhat"],
     brand: "Sugar Town",
-    image: "/placeholder-product.jpg"
+    image: "/images/SGT 5 vlt.jpg"
   },
   {
     id: "19",
@@ -167,7 +167,7 @@ export const products: Product[] = [
     price: 349000,
     categories: ["dip-sinh-nhat"],
     brand: "Cai lo nuong",
-    image: "/placeholder-product.jpg"
+    image: "/images/CLN 1.jpg"
   },
   {
     id: "20",
@@ -176,7 +176,7 @@ export const products: Product[] = [
     price: 349000,
     categories: ["dip-sinh-nhat"],
     brand: "Cai lo nuong",
-    image: "/placeholder-product.jpg"
+    image: "/images/CLN 2.jpg"
   },
   {
     id: "21",
@@ -185,7 +185,7 @@ export const products: Product[] = [
     price: 399000,
     categories: ["dip-sinh-nhat"],
     brand: "TOUS les JOURS",
-    image: "/placeholder-product.jpg"
+    image: "/images/TLJ 1.jpg"
   },
   {
     id: "22",
@@ -194,7 +194,7 @@ export const products: Product[] = [
     price: 399000,
     categories: ["dip-sinh-nhat"],
     brand: "TOUS les JOURS",
-    image: "/placeholder-product.jpg"
+    image: "/images/TLJ 1 matcha.jpg"
   },
   {
     id: "23",
@@ -203,7 +203,7 @@ export const products: Product[] = [
     price: 399000,
     categories: ["dip-sinh-nhat"],
     brand: "TOUS les JOURS",
-    image: "/placeholder-product.jpg"
+    image: "/images/TLJ 2.jpg"
   },
   {
     id: "24",
@@ -212,7 +212,7 @@ export const products: Product[] = [
     price: 399000,
     categories: ["dip-sinh-nhat"],
     brand: "TOUS les JOURS",
-    image: "/placeholder-product.jpg"
+    image: "/images/TLJ 3.jpg"
   },
   {
     id: "25",
@@ -221,7 +221,7 @@ export const products: Product[] = [
     price: 70000,
     categories: ["dip-le-tet"],
     brand: "Crabit",
-    image: "/placeholder-product.jpg"
+    image: "/images/Crabit lịch 1.jpg"
   },
   {
     id: "26",
@@ -230,7 +230,7 @@ export const products: Product[] = [
     price: 99000,
     categories: ["dip-le-tet"],
     brand: "Crabit",
-    image: "/placeholder-product.jpg"
+    image: "/images/Crabit lịch 2.jpg"
   },
   {
     id: "27",
@@ -239,7 +239,7 @@ export const products: Product[] = [
     price: 149000,
     categories: ["dip-le-tet"],
     brand: "Crabit",
-    image: "/placeholder-product.jpg"
+    image: "/images/Crabit bg.jpg"
   },
   {
     id: "28",
@@ -248,7 +248,7 @@ export const products: Product[] = [
     price: 149000,
     categories: ["dip-tot-nghiep", "cho-dong-nghiep"],
     brand: "Crabit",
-    image: "/placeholder-product.jpg"
+    image: "/images/C Sổ 1.jpg"
   },
   {
     id: "29",
@@ -257,7 +257,7 @@ export const products: Product[] = [
     price: 79000,
     categories: ["dip-tot-nghiep", "cho-dong-nghiep"],
     brand: "Crabit",
-    image: "/placeholder-product.jpg"
+    image: "/images/c sổ 2.jpg"
   },
   {
     id: "30",
@@ -266,7 +266,7 @@ export const products: Product[] = [
     price: 145000,
     categories: ["dip-tot-nghiep"],
     brand: "Crabit",
-    image: "/placeholder-product.jpg"
+    image: "/images/album.jpg"
   },
   {
     id: "31",
@@ -275,7 +275,7 @@ export const products: Product[] = [
     price: 119000,
     categories: ["cho-nguoi-yeu-crush", "cho-ban-be", "dip-83-2010", "dip-sinh-nhat"],
     brand: "Agaya",
-    image: "/placeholder-product.jpg"
+    image: "/images/agaya 1.jpg"
   },
   {
     id: "32",
@@ -284,7 +284,7 @@ export const products: Product[] = [
     price: 119000,
     categories: ["cho-ban-be", "dip-sinh-nhat", "cho-nguoi-yeu-crush"],
     brand: "Agaya",
-    image: "/placeholder-product.jpg"
+    image: "/images/agaya 3.jpg"
   },
   {
     id: "33",
@@ -293,7 +293,7 @@ export const products: Product[] = [
     price: 119000,
     categories: ["cho-ban-be", "dip-sinh-nhat", "cho-nguoi-yeu-crush"],
     brand: "Agaya",
-    image: "/placeholder-product.jpg"
+    image: "/images/agaya 4.jpg"
   },
   {
     id: "34",
@@ -302,7 +302,7 @@ export const products: Product[] = [
     price: 119000,
     categories: ["cho-ban-be", "dip-sinh-nhat", "cho-nguoi-yeu-crush"],
     brand: "Agaya",
-    image: "/placeholder-product.jpg"
+    image: "/images/AGAYA 2.jpg"
   },
   {
     id: "35",
@@ -311,7 +311,7 @@ export const products: Product[] = [
     price: 59000,
     categories: ["cho-dong-nghiep", "cho-ban-be"],
     brand: "MOJI",
-    image: "/placeholder-product.jpg"
+    image: "/images/lót cốc 1.jpg"
   },
   {
     id: "36",
@@ -320,7 +320,7 @@ export const products: Product[] = [
     price: 59000,
     categories: ["cho-dong-nghiep", "cho-ban-be"],
     brand: "MOJI",
-    image: "/placeholder-product.jpg"
+    image: "/images/lót cc 2.jpg"
   },
   {
     id: "37",
@@ -328,7 +328,7 @@ export const products: Product[] = [
     description: "Lot coc gom tham nuoc",
     price: 59000,
     categories: ["cho-dong-nghiep", "cho-ban-be"],
-    image: "/placeholder-product.jpg"
+    image: "/images/lót ccoosc 3.jpg"
   },
   {
     id: "38",
@@ -337,7 +337,7 @@ export const products: Product[] = [
     price: 249000,
     categories: [],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 1.jpg"
   },
   {
     id: "39",
@@ -346,7 +346,7 @@ export const products: Product[] = [
     price: 360000,
     categories: ["dip-83-2010", "cho-nguoi-yeu-crush", "dip-anniversary-valentine", "dip-sinh-nhat"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 2.jpg"
   },
   {
     id: "40",
@@ -355,7 +355,7 @@ export const products: Product[] = [
     price: 340000,
     categories: ["dip-83-2010", "dip-anniversary-valentine", "cho-nguoi-yeu-crush", "dip-sinh-nhat"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/NOTE 3.jpg"
   },
   {
     id: "41",
@@ -364,7 +364,7 @@ export const products: Product[] = [
     price: 305000,
     categories: ["cho-nguoi-yeu-crush", "dip-anniversary-valentine", "dip-83-2010", "dip-sinh-nhat", "cho-ban-be"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 4.jpg"
   },
   {
     id: "42",
@@ -373,7 +373,7 @@ export const products: Product[] = [
     price: 305000,
     categories: ["cho-nguoi-yeu-crush", "dip-anniversary-valentine", "dip-sinh-nhat", "cho-ban-be", "dip-83-2010"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 5.jpg"
   },
   {
     id: "43",
@@ -382,7 +382,7 @@ export const products: Product[] = [
     price: 475000,
     categories: ["cho-ban-be", "dip-sinh-nhat", "cho-nguoi-yeu-crush"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 6.jpg"
   },
   {
     id: "44",
@@ -391,7 +391,7 @@ export const products: Product[] = [
     price: 299000,
     categories: ["cho-ban-be", "dip-sinh-nhat", "cho-nguoi-yeu-crush"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 7.jpg"
   },
   {
     id: "45",
@@ -400,7 +400,7 @@ export const products: Product[] = [
     price: 299000,
     categories: ["cho-ban-be", "dip-sinh-nhat", "cho-nguoi-yeu-crush"],
     brand: "NOTE",
-    image: "/placeholder-product.jpg"
+    image: "/images/note 8.jpg"
   },
   {
     id: "46",
@@ -409,7 +409,7 @@ export const products: Product[] = [
     price: 350000,
     categories: ["cho-nguoi-yeu-crush", "dip-anniversary-valentine", "dip-sinh-nhat", "dip-83-2010"],
     brand: "Flowers Corner",
-    image: "/placeholder-product.jpg"
+    image: "/images/FC 1.jpg"
   },
   {
     id: "47",
@@ -418,7 +418,7 @@ export const products: Product[] = [
     price: 3000000,
     categories: ["dip-cam-on-tri-an", "cho-sep-doi-tac", "cho-gia-dinh-cha-me"],
     brand: "Long Dinh",
-    image: "/placeholder-product.jpg"
+    image: "/images/LC 1.jpg"
   },
   {
     id: "48",
@@ -427,7 +427,7 @@ export const products: Product[] = [
     price: 350000,
     categories: ["dip-tot-nghiep", "cho-nguoi-yeu-crush", "dip-anniversary-valentine", "dip-83-2010"],
     brand: "Flowers Corner",
-    image: "/placeholder-product.jpg"
+    image: "/images/FC 2.jpg"
   },
   {
     id: "49",
@@ -436,7 +436,7 @@ export const products: Product[] = [
     price: 390000,
     categories: ["cho-nguoi-yeu-crush", "dip-anniversary-valentine", "dip-83-2010", "dip-sinh-nhat"],
     brand: "Flowers Corner",
-    image: "/placeholder-product.jpg"
+    image: "/images/FC 3.jpg"
   },
   {
     id: "50",
@@ -445,7 +445,7 @@ export const products: Product[] = [
     price: 449000,
     categories: ["cho-nguoi-yeu-crush"],
     brand: "Flowers Corner",
-    image: "/placeholder-product.jpg"
+    image: "/images/FC 4.jpg"
   },
   {
     id: "51",
@@ -454,7 +454,7 @@ export const products: Product[] = [
     price: 549000,
     categories: [],
     brand: "Flowers Corner",
-    image: "/placeholder-product.jpg"
+    image: "/images/FC 5.jpg"
   },
   {
     id: "52",
@@ -463,7 +463,7 @@ export const products: Product[] = [
     price: 249000,
     categories: ["dip-anniversary-valentine", "cho-nguoi-yeu-crush", "dip-tot-nghiep", "dip-83-2010", "dip-sinh-nhat", "cho-ban-be"],
     brand: "Vuon Hoa Tuoi",
-    image: "/placeholder-product.jpg"
+    image: "/images/VHT 1.jpg"
   },
   {
     id: "53",
@@ -472,7 +472,7 @@ export const products: Product[] = [
     price: 499000,
     categories: ["dip-sinh-nhat", "cho-ban-be"],
     brand: "Vuon Hoa Tuoi",
-    image: "/placeholder-product.jpg"
+    image: "/images/VHT 2.jpg"
   },
   {
     id: "54",
@@ -481,7 +481,7 @@ export const products: Product[] = [
     price: 600000,
     categories: ["dip-cam-on-tri-an", "cho-sep-doi-tac", "cho-gia-dinh-cha-me"],
     brand: "Long Dinh",
-    image: "/placeholder-product.jpg"
+    image: "/images/LC 2.jpg"
   },
   {
     id: "55",
@@ -490,7 +490,7 @@ export const products: Product[] = [
     price: 499000,
     categories: ["cho-nguoi-yeu-crush", "dip-tot-nghiep", "dip-83-2010", "dip-sinh-nhat", "cho-ban-be"],
     brand: "Vuon Hoa Tuoi",
-    image: "/placeholder-product.jpg"
+    image: "/images/VHT 3.jpg"
   },
   {
     id: "56",
@@ -499,7 +499,7 @@ export const products: Product[] = [
     price: 1400000,
     categories: ["dip-cam-on-tri-an", "cho-sep-doi-tac", "cho-gia-dinh-cha-me"],
     brand: "Long Dinh",
-    image: "/placeholder-product.jpg"
+    image: "/images/LC 3.jpg"
   },
   {
     id: "57",
@@ -508,7 +508,7 @@ export const products: Product[] = [
     price: 559000,
     categories: ["dip-tot-nghiep"],
     brand: "Vuon Hoa Tuoi",
-    image: "/placeholder-product.jpg"
+    image: "/images/VHT 4.jpg"
   },
   {
     id: "58",
@@ -517,7 +517,7 @@ export const products: Product[] = [
     price: 1160000,
     categories: ["cho-sep-doi-tac", "cho-gia-dinh-cha-me", "dip-khai-truong-chuc-mung"],
     brand: "VIET CANVAS",
-    image: "/placeholder-product.jpg"
+    image: "/images/sen.jpg"
   },
   {
     id: "59",
@@ -526,7 +526,7 @@ export const products: Product[] = [
     price: 1160000,
     categories: ["cho-gia-dinh-cha-me", "cho-sep-doi-tac", "dip-khai-truong-chuc-mung"],
     brand: "VIET CANVAS",
-    image: "/placeholder-product.jpg"
+    image: "/images/RC 1.jpg"
   },
   {
     id: "60",
@@ -535,7 +535,7 @@ export const products: Product[] = [
     price: 2500000,
     categories: ["cho-sep-doi-tac", "cho-gia-dinh-cha-me", "dip-cam-on-tri-an"],
     brand: "Long Dinh",
-    image: "/placeholder-product.jpg"
+    image: "/images/qt 1.jpg"
   },
   {
     id: "61",
@@ -544,7 +544,7 @@ export const products: Product[] = [
     price: 890000,
     categories: ["dip-khai-truong-chuc-mung", "cho-sep-doi-tac"],
     brand: "Vuon Hoa Tuoi",
-    image: "/placeholder-product.jpg"
+    image: "/images/VHT Ktr.jpg"
   },
   {
     id: "62",
@@ -552,7 +552,7 @@ export const products: Product[] = [
     description: "Gau bong teddy dang yeu.",
     price: 150000,
     categories: ["cho-nguoi-yeu-crush", "cho-ban-be", "dip-sinh-nhat"],
-    image: "/placeholder-product.jpg"
+    image: "/images/BE 1.jpg"
   },
   {
     id: "63",
@@ -560,7 +560,7 @@ export const products: Product[] = [
     description: "Gau bong teddy lon am ap.",
     price: 350000,
     categories: ["cho-nguoi-yeu-crush", "cho-ban-be", "dip-sinh-nhat", "dip-anniversary-valentine"],
-    image: "/placeholder-product.jpg"
+    image: "/images/BE 2.jpg"
   },
   {
     id: "64",
@@ -568,7 +568,7 @@ export const products: Product[] = [
     description: "Hop socola ngot ngao cho ngay Valentine.",
     price: 280000,
     categories: ["cho-nguoi-yeu-crush", "dip-anniversary-valentine"],
-    image: "/placeholder-product.jpg"
+    image: "/images/colbr.jpg"
   },
   {
     id: "65",
@@ -576,7 +576,7 @@ export const products: Product[] = [
     description: "Set qua danh cho ngay 8/3.",
     price: 450000,
     categories: ["dip-83-2010", "cho-nguoi-yeu-crush", "cho-ban-be"],
-    image: "/placeholder-product.jpg"
+    image: "/images/gói quà.png"
   }
 ];
 
