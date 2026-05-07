@@ -24,7 +24,7 @@ export const products: Product[] = [
     description: "Máy khuếch tán tinh dầu lên đến bán kính 10m2, mùi hương vừa phải, nâng cấp chất lượng không gian sống của bạn!",
     price: 459000,
     categories: [],
-    image: "/images/ML 1.jpg"
+    image: "/images/tinh-dau.jpg"
   },
   {
     id: "3",
