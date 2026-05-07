@@ -56,7 +56,7 @@ export const products: Product[] = [
     description: "Form dang rong rai, mau sac thanh lich, phong cach toi gian, de phoi do.",
     price: 275000,
     categories: [],
-    image: "/images/BE 5.jpg"
+    image: "/images/ĐÔNG THT.jpg"
   },
   {
     id: "7",
@@ -576,7 +576,7 @@ export const products: Product[] = [
     description: "Set qua danh cho ngay 8/3.",
     price: 450000,
     categories: ["dip-83-2010", "cho-nguoi-yeu-crush", "cho-ban-be"],
-    image: "/images/gói quà.png"
+    image: "/images/qt 3.jpg"
   }
 ];
 
