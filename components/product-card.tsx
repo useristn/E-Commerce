@@ -2,12 +2,15 @@
 
 import { Product } from "@/lib/products";
 import { ShoppingBag, Gift } from "lucide-react";
+import { useState } from "react";
 
 interface ProductCardProps {
   product: Product;
 }
 
 export function ProductCard({ product }: ProductCardProps) {
+  const [imgError, setImgError] = useState(false);
+
   const formatPrice = (price: number) => {
     return new Intl.NumberFormat("vi-VN", {
       style: "currency",
@@ -19,11 +22,20 @@ export function ProductCard({ product }: ProductCardProps) {
     <div className="group bg-card rounded-2xl overflow-hidden shadow-sm border border-border hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
       {/* Product Image */}
       <div className="relative aspect-square bg-muted overflow-hidden">
-        <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-primary/5 to-primary/20">
-          <Gift className="w-16 h-16 text-primary/30" />
-        </div>
+        {product.image && !imgError ? (
+          <img
+            src={product.image}
+            alt={product.name}
+            className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+            onError={() => setImgError(true)}
+          />
+        ) : (
+          <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-primary/5 to-primary/20">
+            <Gift className="w-16 h-16 text-primary/30" />
+          </div>
+        )}
         {product.brand && (
-          <span className="absolute top-3 left-3 bg-primary/90 text-primary-foreground text-xs font-medium px-3 py-1 rounded-full">
+          <span className="absolute top-3 left-3 bg-primary/90 text-primary-foreground text-xs font-medium px-3 py-1 rounded-full z-10">
             {product.brand}
           </span>
         )}

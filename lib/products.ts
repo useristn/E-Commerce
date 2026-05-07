@@ -16,7 +16,7 @@ export const products: Product[] = [
     description: "Ao phong tron cotton 100%, nhieu kich co, de phoi do phong cach toi gian, thanh lich.",
     price: 120000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/ao-phong.jpg"
   },
   {
     id: "2",
@@ -48,7 +48,7 @@ export const products: Product[] = [
     description: "Gong kinh thanh lich, thoi trang kem trong chong tia UV, anh sang xanh.",
     price: 199000,
     categories: [],
-    image: "/placeholder-product.jpg"
+    image: "/kinh-mat.jpg"
   },
   {
     id: "6",
