@@ -552,7 +552,7 @@ export const products: Product[] = [
     description: "Gấu bông teddy đáng yêu.",
     price: 150000,
     categories: ["cho-nguoi-yeu-crush", "cho-ban-be", "dip-sinh-nhat"],
-    image: "/images/gau-bong-2.jpg"
+    image: "/images/gau-bong-2.jpeg"
   },
   {
     id: "63",
